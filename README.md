@@ -7,7 +7,7 @@
 |![IT Specialist](https://images.credly.com/size/110x110/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png)|IT Specialist Python|Certiport|
 |![MTA: Introduction to Programming Using Java](https://images.credly.com/size/110x110/images/74450625-9ec7-41a7-897e-aa61a9ea4278/MTA-Introduction_to_Programming_Using_Java-600x600.png)|MTA: Introduction to Programming Using Java|Microsoft|
 
-# Contact #
+# Connect with me #
 **LinkedIn** - https://www.linkedin.com/in/kenji-shimizu-07798b130/
 
 **Email** - kenjishimizu1717@gmail.com

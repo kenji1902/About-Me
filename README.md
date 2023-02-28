@@ -16,7 +16,7 @@
 
 ## Contact ##
 
-**Email** - kenjishimizu1717@gmail.com
+**Email** - kenjishimizu.dev@gmail.com
 
 **Tel No.** - +63 917 502 8874
 
